@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me LIKITHA BHASKAR
 
 Student in Vellore Institute Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="270" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGppNXNxcTRjaGhmMG1pbDE4aXU4NDNwNG5jZG5qYXdpZnI3eTRhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QLzImGMAHffcJ2Xl4I/giphy.gif">
 - 🔭 Here's my [portfolio](my-profile-website-plum.vercel.app)                                                 
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- 🎓 Engineering at <a href="https://vit.ac.in/"><img src="vit logo.png" height="20"></a>
+- 🎓 Engineering at <a href="https://vit.ac.in/"><img src="vit logo.png" height="20"></a> Integrated Mtech CSE in DataScience
 - ⚡ Fun fact: I treat messy datasets like puzzles — the more chaotic, the more excited I get!
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/likithabhaskar705) <br/>
