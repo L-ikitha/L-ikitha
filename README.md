@@ -2,9 +2,10 @@
 
 Student in Vellore Institute Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
+- 🔭 Here's my [portfolio](my-profile-website-plum.vercel.app)                                                 
+- 🌱 I’m currently learning DSA and Integrating AI to my workflow
+- 🎓 Engineering at [VIT Vellore](https://vit.ac.in/)  
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" height="60">
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
@@ -25,6 +26,6 @@ Student in Vellore Institute Technology
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![LeetCode Stats](https://leetcard.jacoblin.cool/LIKITHA_LIKITHA?theme=dark&font=Chelsea%20Market&ext=heatmap)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L-ikitha&bg_color=252224&color=fffaff&line=e5d2e3&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
